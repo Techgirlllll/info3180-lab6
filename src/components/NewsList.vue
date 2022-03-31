@@ -62,6 +62,11 @@ export default {
 .search {
     font-weight: bold;
     margin-bottom: 5%;
+    margin-left: 1%;
+}
+
+h2 {
+    margin-left: 1%;
 }
 
 .card {
@@ -76,4 +81,5 @@ export default {
     width:max-width;
     height: 300px;
 }
+
 </style>
